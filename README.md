@@ -1,5 +1,5 @@
 # Kimkoo Mattress Machinery | Advanced Mattress Manufacturing & Packaging Solutions
-
+<img src="[https://szkimkoo.com/wp-content/uploads/2025/04/KIMKOO.png](https://szkimkoo.com/wp-content/uploads/2025/07/KIMKOO-1.png)" alt="KIMKOO Mattress Machinery" width="400">
 Welcome to the official technical repository of **Kimkoo Mattress Machinery**. As a globally recognized leader in the bedding industry since 2008, we specialize in bridging the gap between traditional craftsmanship and modern automation. Our mission is to empower factories with high-performance equipment that scales production while maintaining uncompromising quality.
 
 ## 🏭 Revolutionizing the Industry with Smart Mattress Machinery
